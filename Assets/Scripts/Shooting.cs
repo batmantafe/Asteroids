@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// testing Github by modifying script with a comment
-
 // CTRL+K+D
 
 namespace Functions
@@ -11,7 +9,7 @@ namespace Functions
     public class Shooting : MonoBehaviour
     {
 
-        // testing Github by modifying this script with a comment
+        // testing Github by modifying this script with a comment... testing again
 
         // Stores the object we want to Instantiate
         public GameObject projectilePrefab;
