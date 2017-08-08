@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// testing Github by modifying script with a comment
+
 // CTRL+K+D
 
 namespace Functions
