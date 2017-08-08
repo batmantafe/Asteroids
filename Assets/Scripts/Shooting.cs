@@ -9,6 +9,8 @@ namespace Functions
     public class Shooting : MonoBehaviour
     {
 
+        // testing Github by modifying this script with a comment
+
         // Stores the object we want to Instantiate
         public GameObject projectilePrefab;
 
